@@ -1,19 +1,19 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
+ <h1 align="center"> Faisal udas 𝚳𝐃 </h1>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=M.F+TOPU+𝗠𝗗+Faisal+Muskan+TOPUDMH)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing TOPU Md, Faisal udas WhatsApp user BOT, Created by topu Tech.
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/04e09c20e70de180ee319.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
+<a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
@@ -29,7 +29,7 @@
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
 
 
 #### SETUP
@@ -49,7 +49,7 @@
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
 
    
 ## Supported Versions Node Versions to run this bot
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+923037484167">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
