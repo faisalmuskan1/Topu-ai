@@ -13,12 +13,12 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
-global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
+global.github = process.env.GITHUB || "https://github.com/faisalmuskan1/Topu-ai/tree/main";
+global.gurl = process.env.GURL || "https://chat.whatsapp.com/DgEi58lf7nBIiNRZOpU15g";
+global.website = process.env.GURL || "https://chat.whatsapp.com/DgEi58lf7nBIiNRZOpU15g";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/6d9d570903f56b5f4be34.jpg";
 global.devs = "255673750170";
-global.sudo = process.env.SUDO || "255673750170";
+global.sudo = process.env.SUDO || "923037484167";
 global.owner = process.env.OWNER_NUMBER || "923037484167";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
@@ -49,11 +49,11 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "Faisal💔udas",
-  author: process.env.PACK_AUTHER || "TOPU",
+  author: process.env.PACK_AUTHER || "Faisal",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "Faisal-Md",
   ownername: process.env.OWNER_NAME || "Faisal",
-  errorChat: process.env.ERROR_CHAT || "",
+  errorChat: process.env.ERROR_CHAT || "love",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
