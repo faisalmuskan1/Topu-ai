@@ -5,14 +5,14 @@
 
 <a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=M.F+TOPU+𝗠𝗗+Faisal+Muskan+TOPUDMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=M.F+Faisal+𝗠𝗗+Faisal+Muskan+TOPUDMH)](https://git.io/typing-svg)
 
 <a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/></a>
  
-<p align="center"> Introducing TOPU Md, Faisal udas WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing Faisal udas Md, Faisal udas WhatsApp user BOT, Created by topu Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/04e09c20e70de180ee319.jpg" alt="01" border="0" /></a>                     
+  <a href="https://telegra.ph/file/6d9d570903f56b5f4be34.jpg"><img src="https://telegra.ph/file/04e09c20e70de180ee319.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://telegra.ph/file/6d9d570903f56b5f4be34.jpg'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
